@@ -1,6 +1,6 @@
 // A public signaling server for demonstration purposes. 
 // For a production app, you should host your own.
-export const SIGNALING_SERVER_URL = 'wss://0.peerjs.com/';
+export const SIGNALING_SERVER_URL = 'wss://0.peerjs.com:443';
 
 // Public STUN servers provided by Google.
 export const STUN_SERVERS = {
