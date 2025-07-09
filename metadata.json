@@ -1,5 +1,6 @@
 {
-  "name": "LocalDrop - P2P File Sharing",
-  "description": "A modern, browser-based application for seamless peer-to-peer file sharing between devices on the same local network using WebRTC. No installations or servers required, just open the app, exchange connection details, and start sharing files directly.",
-  "requestFramePermissions": []
+  "name": "DropPeer - P2P File Sharing",
+  "description": "A peer-to-peer file and text sharing application using WebRTC for secure, local, and internet-based transfers. Drop files or text to a paired device without uploading anything to a server.",
+  "requestFramePermissions": [],
+  "prompt": ""
 }
